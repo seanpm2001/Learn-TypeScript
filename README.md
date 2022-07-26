@@ -49,8 +49,68 @@ _/!\ This example has not been tested yet, and may not work_
 
 3. TypeScript uses the `*.ts` file extension
 
-4. TypeScript was influenced by C#, Java, and JavaScript
+4. TypeScript also uses the `*.tsx` file extension for TypeScript scripts that use JSX source code
+ 
+5. TypeScript was influenced by C#, Java, and JavaScript
 
-5. No other knowledge of the TypeSctipr programming language
+6. Any valid TypeScript source code is valid JavaScript source code, and vice versa
+
+7. TypeScript is one of the top 50 programming languages (as of 2022)
+
+8. TypeScript is a language that compiles to JavaScript. I am unsure if the TypeScript alone (uncompiled) can do anything useful
+
+9. No other knowledge of the TypeScript programming language
+
+***
+
+## File info
+
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `2 (2022, Monday, July 25th at 5:45 pm PST)`
+
+**Line count (including blank lines and compiler line):** `117`
+
+***
+
+## File history
+
+<details><summary><p>Click/tap here to expand/collapse the history for this file</p></summary>
+
+<details><summary><p><b>Version 1 (2021, Friday, November 26th at 4:41 pm PST)</b></p></summary>
+
+> Changes:
+
+> * Started the file
+
+> * Added the `title` section
+
+> * Added the `hello world in TypeScript` section
+
+> * Added the `comments in TypeScript` section
+
+> * Added the `break keyword in TypeScript` section
+
+> * Added the `other knowledge of the TypeScript programming language` section
+
+> * No other changes in version 1
+
+</details>
+
+<details><summary><p><b>Version 2 (2022, Monday, July 25th at 5:45 pm PST)</b></p></summary>
+
+> Changes:
+
+> * Updated the `other knowledge of the TypeScript programming language` section
+
+> * Added the `file info` section
+
+> * Added the `file history` section
+
+> * No other changes in version 2
+
+</details>
+
+</details>
 
 ***
